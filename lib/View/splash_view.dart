@@ -37,7 +37,7 @@ class _SplashViewState extends State<SplashView> {
             ),
           ),
           const Text(
-            "Developed By Azza",
+            "Developed By Azza sadawy",
             style: TextStyle(
               color: Colors.grey,
               fontSize: 20,
